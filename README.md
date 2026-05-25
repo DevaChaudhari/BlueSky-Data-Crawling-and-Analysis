@@ -11,12 +11,12 @@ Connects to BlueSky social media API to collect 250 posts each for keywords: cli
 ```
 BlueSky-Data-Crawling-and-Analysis/
 │
-├── 2390829_assignment2_solution.ipynb   # Main Jupyter Notebook
-├── 2390829_assignment2_solution.html    # Exported HTML output
+├── assignment2_solution.ipynb   # Main Jupyter Notebook
+├── assignment2_solution.html    # Exported HTML output
 ├── data/
-│   ├── 2390829_climate.json             # 250 posts about "climate"
-│   ├── 2390829_python.json              # 250 posts about "python"
-│   └── 2390829_travel.json              # 250 posts about "travel"
+│   ├── climate.json             # 250 posts about "climate"
+│   ├── python.json              # 250 posts about "python"
+│   └── travel.json              # 250 posts about "travel"
 └── README.md
 ```
 
